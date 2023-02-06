@@ -1,7 +1,7 @@
 Introducció a Python
 =======================
 
-* [Compilar i executar](1-compilar.md)
+* [Compilar i executar](01-compilar.md)
 
 ---
 
