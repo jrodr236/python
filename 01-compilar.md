@@ -1,6 +1,5 @@
 Python: compilar i executar
 ===========================
-Basat en: https://cacauet.org/wiki/index.php/Python:_introducci%C3%B3_r%C3%A0pida
 
 
 ## A Windows
@@ -68,7 +67,10 @@ print "mira què bé"
 
 ## IDE
 
-Recomanem l'ús de l'IDE PyCharm Professional.
+* Per a projectes professionals (CFGS DAM), recomanem l'ús de l'IDE (PyCharm Professional)[https://www.jetbrains.com/pycharm/].
+
+* Per a introduïr-se a Python (CFGM SMX), recomanem l'ús de l'IDE (Thonny)[https://thonny.org/]. Aquest IDE està instal·lat per defecte a Raspberry Pi.
+
 
 > **Tasca:** Des de l'IDE, executa un programa que mostri un acudit per pantalla.
 
