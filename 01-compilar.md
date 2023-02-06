@@ -4,7 +4,7 @@ Python: compilar i executar
 
 ## A Windows
 
-Descarregar i instal·lar Python.
+Descarregar i instal·lar [Python](https://www.python.org/downloads/).
 - Escollir _Add python.exe to PATH_.
 - Escollir _Disable max path limit_.
 
@@ -67,9 +67,9 @@ print "mira què bé"
 
 ## IDE
 
-* Per a projectes professionals (CFGS DAM), recomanem l'ús de l'IDE (PyCharm Professional)[https://www.jetbrains.com/pycharm/].
+* Per a projectes professionals (CFGS DAM), recomanem l'ús de l'IDE [PyCharm Professional](https://www.jetbrains.com/pycharm/).
 
-* Per a introduïr-se a Python (CFGM SMX), recomanem l'ús de l'IDE (Thonny)[https://thonny.org/]. Aquest IDE està instal·lat per defecte a Raspberry Pi.
+* Per a introduïr-se a Python (CFGM SMX), recomanem l'ús de l'IDE [Thonny](https://thonny.org/). Aquest IDE està instal·lat per defecte a Raspberry Pi.
 
 
 > **Tasca:** Des de l'IDE, executa un programa que mostri un acudit per pantalla.
