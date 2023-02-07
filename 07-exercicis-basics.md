@@ -11,7 +11,7 @@ de comandes enlloc de demanar-les a l'usuari en mode interactiu. En
 aquests casos cal fer una funció que resolgui l'operació enlloc de tenir
 les instruccions al cos principal del script.
 
-1.  Fes un script "pow.py" que demani 2 nombres naturals, a i b, i
+1.  Fes un script `pow.py` que demani 2 nombres naturals, a i b, i
     calculi la potència a<sup>b</sup> sense utilitzar la llibreria
     matemàtica.
 2.  Fes un script `powcmd.py` que realitzi el mateix que l'anterior,
