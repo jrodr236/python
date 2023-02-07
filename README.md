@@ -2,6 +2,15 @@ Introducció a Python
 =======================
 
 * [Compilar i executar](01-compilar.md)
+* [Gestió de dades, introducció](02-dades.md)
+* [Condicionals](03-condicionals.md)
+* [Bucles](04-bucles.md)
+* [Arguments](05-arguments.md)
+* [Strings](06-strings.md)
+* [Exercicis bàsics](07-exercicis-basics.md)
+* Arxius
+* Exercicis d'arxius
+* Tipus bàsics de dades
 
 ---
 
