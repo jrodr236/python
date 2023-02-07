@@ -1,7 +1,7 @@
 Introducció a Python
 =======================
 
-* [Compilar i executar](01-compilar.md)
+* [Primers passos](01-primers-passos.md)
 * [Gestió de dades, introducció](02-dades.md)
 * [Condicionals](03-condicionals.md)
 * [Bucles](04-bucles.md)

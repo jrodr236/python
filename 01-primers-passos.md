@@ -1,4 +1,4 @@
-Python: compilar i executar
+Python: primers passos
 ===========================
 
 
