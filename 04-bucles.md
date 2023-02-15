@@ -50,6 +50,6 @@ Per més informació, veure la referència de [bucles a wikibooks](http://en.wik
 
 
 > **Tasca:** Crea un programa que demani un número enter i en mostri la seva taula de multiplicar.
-
+>
 > **Tasca:** Millorar el programa de registre i login. En cas que es produeixi algun error, demanar a l'usuari que torni a entrar les dades tantes vegades com calgui.
 
