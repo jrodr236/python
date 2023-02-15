@@ -8,7 +8,7 @@ Les funcions a Python es defineixen de la següent forma:
 def repetir(s, exclamar):
     """
     Retorna l'string 's' repetit 3 vegades.
-    If exclamar és true, afegir signes d'exclamació.
+    Si exclamar és true, afegir signes d'exclamació.
     """
 
     resultat = s + s + s # també es pot fer servir "s * 3", que és més ràpid (Perquè?)
