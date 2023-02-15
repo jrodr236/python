@@ -1,6 +1,8 @@
 Introducció a Python
 =======================
 
+Tutorial de Python per a persones que ja saben programar.
+
 * [Primers passos](01-primers-passos.md)
 * [Gestió de dades, introducció](02-dades.md)
 * [Condicionals](03-condicionals.md)
