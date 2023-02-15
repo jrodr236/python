@@ -1,30 +1,62 @@
 Python: exercicis bàsics
 ==========================
 
+Calculadora Freelancer
+----------------------
+Un Freelancer desitja saber quant pot cobrar per la seva feina setmanalment i mensualment. Per això només necessita establir el preu de la seva feina per hora.
 
-Aquests exercicis estan pensat per introduïr-se al Python i les seves
-estructures bàsiques de control. En general no s'han de fer servir els
-mètodes d'objectes ja que els veurem més endavant.
+S'estimen 40 hores de feina a la setmana.
 
-Hi ha exercicis que son repetits només que entrant les dades per línia
-de comandes enlloc de demanar-les a l'usuari en mode interactiu. En
-aquests casos cal fer una funció que resolgui l'operació enlloc de tenir
-les instruccions al cos principal del script.
+Les fórmules per calcular el pagament Setmanal i Mensual són:
 
-1.  Fes un script `pow.py` que demani 2 nombres naturals, a i b, i
-    calculi la potència a<sup>b</sup> sense utilitzar la llibreria
-    matemàtica.
-2.  Fes un script `powcmd.py` que realitzi el mateix que l'anterior,
-    però que li entrem a i b per la línia de comandes.
-3.  Fes un script `busca.py` que demani 2 cadenes de caràcters *frase* i
-    *element*, i que busqui quantes vegades apareix *element* dins de la
-    cadena *frase*, sense utilitzar les funcions de strings.
-4.  Fes un script `buscacmd.py` que faci el mateix que l'anterior, però
-    que li entrem *frase* i *element* per la línia de comandes.
-5.  Fes un script que demani nom, cognom, lloc i data de naixement, i
+1) Pagament_Semanal = (EurosPerHora x 40)
+2) Pagament_Mensual = (EurosPerHora x 160)
+
+El programa haurà de demanar el preu per hora i mostrarà el resultat del pagament setmanal i el mensual.
+
+Per exemple:
+```
+Preu en euros por hora: 20
+
+Pagament setmanal: 800.00
+Pagament mensual: 3200.00
+```
+
+Edat de 2 persones
+-----------------
+
+Escriu un programa que demani l'edat de 2 persones i digui si és major la primera, la segona, o si tenen la mateixa edat.
+
+
+Signe del zodíac
+----------------
+
+Fes un script que demani nom, cognom, lloc i data de naixement, i
     mostri per pantalla les dades personals formatades dins d'una frase
-    més el signe del zodíac de la persona. Per exemple: *"Sr./Sra. Josep
-    Pérez, nascut a Andorra l'any 1991, té a Taure com a signe solar del
-    zodíac."*
-    -   Heu d'utilitzar la [llibreria python
-        datetime](http://docs.python.org/2/library/datetime.html#datetime-objects).
+    més el signe del zodíac de la persona.
+
+Per exemple, la sortida podria ser:
+```
+Sr./Sra. Josep Pérez, nascut a Andorra l'any 1991, té a Taure com a signe solar del zodíac.
+```
+
+Podeu utilitzar la [llibreria python datetime](https://docs.python.org/3/library/datetime.html#datetime-objects).
+
+
+Interès anual
+--------------
+
+Escriu un programa que pregunti a l'usuari una quantitat a invertir, l'interès anual i el nombre d'anys, i mostri per pantalla el capital obtingut a la inversió cada any que dura la inversió.
+
+Per exemple:
+```
+Quantitat a invertir? 1000
+Interès percentual anual? 10
+Anys? 5
+
+Capital després de 1 anys: 1100.0
+Capital després de 2 anys: 1210.0
+Capital després de 3 anys: 1331.0
+Capital després de 4 anys: 1464.1
+Capital després de 5 anys: 1610.51
+```
