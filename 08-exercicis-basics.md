@@ -9,8 +9,8 @@ S'estimen 40 hores de feina a la setmana.
 
 Les fórmules per calcular el pagament Setmanal i Mensual són:
 
-1) Pagament_Semanal = (EurosPerHora x 40)
-2) Pagament_Mensual = (EurosPerHora x 160)
+1. Pagament_Semanal = (EurosPerHora x 40)
+2. Pagament_Mensual = (EurosPerHora x 160)
 
 El programa haurà de demanar el preu per hora i mostrarà el resultat del pagament setmanal i el mensual.
 
