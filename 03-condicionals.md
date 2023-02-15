@@ -47,15 +47,15 @@ Important remarcar
 que els condicionals es poden fer de la manera curta amb:
 
 ``` python
-num = int(input())
-res = -num if num<0 else num
-print(res)
+entrada = int(input())
+resultat = -entrada if entrada<0 else entrada
+print(resultat)
 ```
 
 Fixa't que hem filtrat l'entrada per tal que `num` sigui un sencer (`int`). Si volguéssim un flotant caldria fer:
 
 ```python
-num = float(input())
+entrada = float(input())
 ```
 
 
