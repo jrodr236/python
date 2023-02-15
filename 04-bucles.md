@@ -1,9 +1,25 @@
 Python: bucles
 ==========================
 
+## Bucle while
 
-**Veure la referència de [bucles a wikibooks](http://en.wikibooks.org/wiki/Python_Programming/Loops).**
+```python
+a = 0
+while a < 5:
+    print (a)
+    a += 1 # El mateix que a = a + 1 
+```
 
+S'executa el bloc de codi de dins el while _mentre_ la condició sigui certa. Per tant, genera la següent sortida:
+```
+0
+1
+2
+3
+4
+```
+
+## Bucle for
 
 Per fer un bucle típic numèric (no és el més habitual en Python):
 
@@ -17,6 +33,8 @@ instrucció `range(3,11,2)` crea una llista de nombres des de l'inici (3) fins e
 
 
 
+## break & continue
+
 Dins dels bucles tenim unes clàusules que ens permeten major control:
 
 -   `break`: finalitza i surt del bucle més proper.
@@ -24,6 +42,10 @@ Dins dels bucles tenim unes clàusules que ens permeten major control:
 
 Pots llegir aquí un [exemple de break i
 continue](https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops).
+
+----
+
+Per més infornmació, veure la referència de [bucles a wikibooks](http://en.wikibooks.org/wiki/Python_Programming/Loops).
 
 
 
