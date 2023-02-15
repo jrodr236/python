@@ -45,7 +45,7 @@ continue](https://docs.python.org/3/tutorial/controlflow.html#break-and-continue
 
 ----
 
-Per més infornmació, veure la referència de [bucles a wikibooks](http://en.wikibooks.org/wiki/Python_Programming/Loops).
+Per més informació, veure la referència de [bucles a wikibooks](http://en.wikibooks.org/wiki/Python_Programming/Loops).
 
 
 
