@@ -60,3 +60,31 @@ Capital després de 3 anys: 1331.0
 Capital després de 4 anys: 1464.1
 Capital després de 5 anys: 1610.51
 ```
+
+Comparativa d'algorismes
+------------------------
+És sabut que el factorial pot calcular-se utilitzant un enfocament iteratiu (bucle) o recursiu.
+
+Enfocament iteratiu:
+
+* b<sup>n</sup>= b × b × b ... × b (n vegades)
+
+
+Enfocament recursiu:
+
+* b<sup>n</sup> = 1 (si n=0)
+* b<sup>n</sup> = b × b<sup>n-1</sup> (si n>0)
+
+Però l'enfocament recursiu es pot millorar tenint en compte que:
+
+* b<sup>n</sup> = 1 (si n=0)
+* b<sup>n</sup> = b<sup>n/2</sup> × b<sup>n/2</sup> (si n es parell)
+* b<sup>n</sup> = b<sup>(n-1)/2</sup> × b<sup>(n-1)/2</sup> × b (si n es senar)
+
+
+Com podem saber quin dels tres enfocaments és més eficient?
+
+Crea tres funcions per a resoldre la potència indicada per l'usuari utilitzant els tres enfocaments, i que mostri el temps que ha trigat cadascun en executar-se.
+
+Pots utilitzar la funció [time.perf_counter_ns()](https://docs.python.org/3/library/time.html#time.perf_counter_ns).
+
