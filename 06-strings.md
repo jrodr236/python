@@ -10,6 +10,7 @@ diverses maneres. La primera seria concatenant amb "+":
 ``` python
 nom = "Manolo"
 missatge = "El guanyador del premi és " + nom + ". Felicitats!"
+print(missatge)
 ```
 
 La segona seria intercal·lant les variables entre comes (`,`):
