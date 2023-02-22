@@ -35,3 +35,5 @@ if __name__ == '__main__':
 Aprofitem per explicar que els arxius de codi de Python utilitzen l'extensió `.py` i s'anomenen "mòduls".
 
 Un mòdul de Python es pot executar directament (com `python hola.py Joan`) o es poden importar i utilitzar. Quan s'executa directament un arxiu de Python, la variable especial `__name__` s'estableix com a `__main__`. Per tant, és comú tenir el codi estàndard `if __name__ == ...` anterior per a cridar a una funció `main()` quan el mòdul s'executa directament, però no quan un altre mòdul l'importa.
+
+> **Tasca:** Escriu tres funcions que retornin, cadascuna, si un DNI és vàlid, si una data és vàlida i si una adreça de correu és vàlida. Utilitzant la forma estàndard per cridar a la funció `main()`, escriu un programa que demani a l'usuari les seves dades personals i les validi utilitzant les funcions anteriors.
