@@ -70,7 +70,7 @@ if 'lisa' in llista:
   print('trobada!')
 ```
 
-> **Tasca:** Escriu un programa que permeti a l'usuari introduïr una llista de noms de pokemons. Quan l'usuari se'n cansi, mostrar la llista introduïda per pantalla.
+> **Tasca:** Escriu un programa que permeti a l'usuari introduïr una llista de noms de pokémons. Quan l'usuari se'n cansi, mostrar la llista introduïda per pantalla.
 
 Mètodes
 -------
@@ -104,7 +104,4 @@ print("8. ", llista)
 8.  ['zzz', 'homer', 'marge', 'bart', 'xxx']
 ```
 
-> **Tasca:** Modifica el programa anterior per permetre a l'usuari "desfer" l'últim pokemon introduït.
-
-> **Tasca:** Continuant amb la idea dels pokemons, crea un CRUD de noms de pokemons.
-
+> **Tasca:** Modifica el programa anterior per permetre a l'usuari "desfer" l'últim nom de pokémon introduït.

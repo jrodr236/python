@@ -12,7 +12,11 @@ Tutorial de Python per a persones que ja saben programar.
 * [Funcions](07-funcions.md)
 * [Exercicis bàsics](08-exercicis-basics.md)
 * [Llistes](09-llistes.md)
-* [Slice](10-slice.md)
+* [Exercicis llistes](10-exercicis-llistes.md)
+* [Slice](11-slice.md)
+* Tuples
+* Diccionaris
+* Objectes
 
 ---
 
