@@ -1,4 +1,4 @@
-10 . Python: exercicis llistes
+10 . Python: exercicis estructures de dades 1
 ==========================
 
 CRUD Pokémon
