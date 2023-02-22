@@ -1,4 +1,4 @@
-7 . Python: llistes
+9 . Python: llistes
 =========================
 
 Conceptes bàsics
@@ -70,7 +70,7 @@ if 'lisa' in llista:
   print('trobada!')
 ```
 
-> **Tasca:** Escriu un programa que permeti a l'usuari introduïr una llista de pokemons. Quan l'usuari se'n cansi, mostrar la llista introduïda per pantalla.
+> **Tasca:** Escriu un programa que permeti a l'usuari introduïr una llista de noms de pokemons. Quan l'usuari se'n cansi, mostrar la llista introduïda per pantalla.
 
 Mètodes
 -------
@@ -106,56 +106,5 @@ print("8. ", llista)
 
 > **Tasca:** Modifica el programa anterior per permetre a l'usuari "desfer" l'últim pokemon introduït.
 
+> **Tasca:** Continuant amb la idea dels pokemons, crea un CRUD de noms de pokemons.
 
-Slices
-------
-La sintaxi _slice_ és una manera útil d'obtenir parts o seqüències. Funciona tant amb strings com amb llistes. El _slice_ `s[inici:final]` indica els elements començant per `inici` i finalitzant (sense incloure'l) a `final`.
-
-```
- H  e  l  l  o
- 0  1  2  3  4
--5 -4 -3 -2 -1
-```
-
-```python
-s = "Hello"
-
-print(s[1:4])
-print(s[1:])
-print(s[:]) # Útil per generar una còpia
-print(s[1:100])
-print()
-print(s[-1])
-print(s[-4])
-print(s[:3])
-print(s[-3:])
-```
-
-```
-ell
-ello
-Hello
-ello
-
-o
-e
-Hel
-llo
-```
-
-Veiem un exemple amb llistes:
-
-```python
-llista = ['a', 'b', 'c', 'd']
-print(llista[1:-1])
-llista[0:2] = 'z'    ## reemplaça ['a', 'b'] amb ['z']
-print(llista)
-
-enllaç = llista
-copia = llista[:]
-llista.reverse()
-print(enllaç)
-print(copia)
-```
-
-> **Tasca:** Partint de la idea dels pokemons, crea un CRUD de noms de pokemons.
