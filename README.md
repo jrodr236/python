@@ -11,9 +11,8 @@ Tutorial de Python per a persones que ja saben programar.
 * [Strings](06-strings.md)
 * [Funcions](07-funcions.md)
 * [Exercicis bàsics](08-exercicis-basics.md)
-* Arxius
-* Exercicis d'arxius
-* Tipus bàsics de dades
+* [Llistes](09-llistes.md)
+
 
 ---
 
