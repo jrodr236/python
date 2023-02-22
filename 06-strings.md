@@ -51,6 +51,29 @@ pi = 3.142
 
 ## Més coses de strings
 
+Fixem-hos que, al contrari que Java, `+` no converteix automàticament els números en Strings.
+
+```python
+pi = 3.14
+#text = 'El valor de pi és ' + pi       ## NO funciona
+text = 'El valor de pi és '  + str(pi)  ## si
+```
+
+Indicant una `r` abans de l'string evita el tractament especial de les barres invertides `\`. A part, es pot fer servir `"""` per escriure strings de més d'una línia.
+
+```python
+cooked = 'això\t i \n allò'
+print(cooked)
+
+raw = r'això\t\n i allò'
+print(raw)
+
+multi = """Era el millor dels temps,
+era el pitjor dels temps"""
+print(multi)
+```
+
+
 Per omplir (padding) un string es pot fer:
 
 ```python
