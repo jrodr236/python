@@ -91,6 +91,7 @@ llista.reverse()              ## inverteix la llista
 print("7. ", llista)
 llista.pop(1)                  ## elimina i retorna l'element de la posició indicada
 print("8. ", llista)
+print("9. ", sorted(llista))
 ```
 
 ```
@@ -102,6 +103,7 @@ print("8. ", llista)
 6.  ['xxx', 'bart', 'marge', 'homer', 'yyy', 'zzz']
 7.  ['zzz', 'yyy', 'homer', 'marge', 'bart', 'xxx']
 8.  ['zzz', 'homer', 'marge', 'bart', 'xxx']
+9.  ['bart', 'homer', 'marge', 'xxx', 'zzz']
 ```
 
 > **Tasca:** Modifica el programa anterior per permetre a l'usuari "desfer" l'últim nom de pokémon introduït.
