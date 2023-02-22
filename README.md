@@ -14,7 +14,7 @@ Tutorial de Python per a persones que ja saben programar.
 * [Llistes](09-llistes.md)
 * [Exercicis llistes](10-exercicis-llistes.md)
 * [Slice](11-slice.md)
-* Tuples
+* [Tuples](12-tuples.md)
 * Diccionaris
 * Objectes
 
