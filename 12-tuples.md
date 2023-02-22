@@ -1,4 +1,4 @@
-12 . Python: Tuples
+12 . Python: tuples
 =========================
 
 Una tupla és una agrupació d'elements de mida fixa. Son semblant als `struct` d'altres llenguatges de programació.

@@ -1,4 +1,4 @@
-11 . Python: Slice
+11 . Python: slice
 =========================
 
 La sintaxi _slice_ és una manera útil d'obtenir parts o seqüències. Funciona tant amb strings com amb llistes. El _slice_ `s[inici:final]` indica els elements començant per `inici` i finalitzant (sense incloure'l) a `final`.
