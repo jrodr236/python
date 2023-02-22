@@ -18,13 +18,15 @@ Tutorial de Python per a persones que ja saben programar.
 * [Diccionaris](13-diccionaris.md)
 * [Exercicis estructures de dades 2](14-exercicis-dades2.md)
 * [Excepcions](15-excepcions.md)
-* Objectes
+* [Classes](16-classes.md)
+* [Exercicis d'objectes](17-exercicis-objectes.md)
 
 ---
 
 Basat en:
 -  [cacauet.org](https://cacauet.org/wiki/index.php/Programaci%C3%B3)
 - [Google's Python Class](https://developers.google.com/edu/python)
+- [w3schools](https://www.w3schools.com/python/)
 
 ---
 
