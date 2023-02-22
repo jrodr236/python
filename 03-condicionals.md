@@ -1,4 +1,4 @@
-Python: condicionals
+3 . Python: condicionals
 ==========================
 
 
@@ -9,7 +9,7 @@ tabuladors/espais al principi de línia), el que és molt adequat per
 establir un estil clar i net de programació.
 
 ``` python
-a , b = 1, 2     # en Python podem fer assignacions de diverses variables alhora
+a , b = 1, 2     # a Python podem fer assignacions de diverses variables alhora
 if a == b:
    print("son iguals")
    c = True
@@ -40,7 +40,7 @@ Les instruccions condicionals permeten que el programa executi o no unes sentèn
 
 ```python
 entrada = input("Enter? ") # Demana un enter.
-entrada = int(entrada) # Defineix n com l'enter escollit.
+entrada = int(entrada) # Defineix entrada com l'enter escollit.
 if entrada < 0:
     resultat = -entrada
 else:
@@ -99,7 +99,7 @@ Què passaria si canviem el `elif` per un `if`?
 
 
 
-~~`switch`~~ no hi és en Python però al link anterior trobareu
+~~`switch`~~ no hi és en Python però al link següent trobareu
     hàbils maneres de simular-ho.
 
 Per més informació, veure la referència de [condicionals a wikibooks](http://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements).

@@ -1,4 +1,4 @@
-Python: gestió de dades, introducció
+2 . Python: gestió de dades, introducció
 ======================
 
 
@@ -36,6 +36,7 @@ import getpass
 password = getpass.getpass("Entra la teva contrassenya: ")
 ```
 
+A l'IDE PyCharm, per defecte, no funciona la funció `getpass`. Es pot solucionar canviant la configuració, o simplement executar-ho des del terminal.
 
 > **Tasca:** Crea una pantalla de login. Per verificar les dades, fes que mostri l'usuari i la contrasenya en finalitzar.
 

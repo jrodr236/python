@@ -1,4 +1,4 @@
-Python: funcions
+7 . Python: funcions
 ==========================
 
 Les funcions a Python es defineixen de la següent forma:

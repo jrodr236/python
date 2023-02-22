@@ -18,7 +18,7 @@ Tutorial de Python per a persones que ja saben programar.
 ---
 
 Basat en:
--  cacauet.org, apartat de [Programació](https://cacauet.org/wiki/index.php/Programaci%C3%B3)
+-  [cacauet.org](https://cacauet.org/wiki/index.php/Programaci%C3%B3)
 - [Google's Python Class](https://developers.google.com/edu/python)
 
 ---

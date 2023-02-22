@@ -1,4 +1,4 @@
-Python: strings
+6 . Python: strings
 ==========================
 
   

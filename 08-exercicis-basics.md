@@ -1,4 +1,4 @@
-Python: exercicis bàsics
+8 . Python: exercicis bàsics
 ==========================
 
 Calculadora Freelancer
@@ -60,6 +60,22 @@ Capital després de 3 anys: 1331.0
 Capital després de 4 anys: 1464.1
 Capital després de 5 anys: 1610.51
 ```
+
+Rectangles
+----------
+Escriu una funció que rebi per paràmetre l'amplada i l'alçada d'un rectangle i el caràcter a utilitzar en el dibuix. Per exemple:
+
+- Amplada: 5
+- Alçada: 3
+- Caràcter: o
+```
+o o o o o
+o o o o o
+o o o o o
+```
+
+Fes que el programa permeti a l'usuari crear tants rectangles com vulgui, fins que se'n cansi.
+
 
 Comparativa d'algorismes
 ------------------------

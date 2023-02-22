@@ -1,4 +1,4 @@
-Python: bucles
+4 . Python: bucles
 ==========================
 
 ## Bucle while
@@ -39,6 +39,8 @@ Dins dels bucles tenim unes clàusules que ens permeten major control:
 
 -   `break`: finalitza i surt del bucle més proper.
 -   `continue`: salta directament a la següent iteració del bucle.
+
+No es recomana utilitzar aquestes sentències, ja que acostumen a dificultat la llegibilitat del codi.
 
 Pots llegir aquí un [exemple de break i
 continue](https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops).
