@@ -9,13 +9,14 @@ tabuladors/espais al principi de línia), el que és molt adequat per
 establir un estil clar i net de programació.
 
 ``` python
-a , b = 1, 2     # a Python podem fer assignacions de diverses variables alhora
+a, b = 1, 2     # a Python podem fer assignacions de diverses variables alhora
 if a == b:
    print("son iguals")
    c = True
 else:
    print("son diferents")
    c = False
+print(c)
 ```
 
 De pas, observa:
