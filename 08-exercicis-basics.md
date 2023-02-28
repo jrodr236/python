@@ -79,7 +79,7 @@ Fes que el programa permeti a l'usuari crear tants rectangles com vulgui, fins q
 
 Comparativa d'algorismes
 ------------------------
-És sabut que les potències es poden calcular-se utilitzant un enfocament iteratiu (bucle) o recursiu.
+És sabut que les potències es poden calcular utilitzant un enfocament iteratiu (bucle) o recursiu.
 
 Enfocament iteratiu:
 
