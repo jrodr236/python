@@ -19,7 +19,8 @@ Tutorial de Python per a persones que ja saben programar.
 * [Exercicis estructures de dades 2](14-exercicis-dades2.md)
 * [Excepcions](15-excepcions.md)
 * [Classes](16-classes.md)
-* [Exercicis d'objectes](17-exercicis-objectes.md)
+* [Lambda](17-lambda.md)
+* [Exercicis d'objectes](18-exercicis-objectes.md)
 
 ---
 
