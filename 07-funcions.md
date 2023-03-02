@@ -51,7 +51,7 @@ A Python és possible assignar valors per defecte als paràmetres de les funcion
 
 ```python
 def saludar(nom, missatge='Hola'):
-    print missatge, nom
+    print(missatge, nom)
 
 saludar('John Smith')
 saludar(missatge="Bon dia", nom="Rigoberta")
