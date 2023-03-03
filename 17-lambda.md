@@ -86,7 +86,7 @@ print()
 ```
 
 Fixa't en alguns detalls de la classe:
-- Té atributs privats i s'han creat mètodes `get` per accedir-hi.
+- Té atributs marcats com a _privats_ i s'han creat mètodes `get` per accedir-hi.
 - S'ha implementat el mètode `__str__()`, que és equivalent al `toString()` de java. És a dir, retorna la representació com a `String` de l'objecte quan és necessari.
 
 > **Tasca:** Modifica l'exemple perquè les persones s'ordenin per edat.
