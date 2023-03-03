@@ -1,6 +1,9 @@
 1 . Python: primers passos
 ===========================
 
+## Importància de python
+
+[Google: programing languages ranking](https://www.google.com/search?q=programing+languages+ranking)
 
 ## A Windows
 

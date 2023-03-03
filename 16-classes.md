@@ -66,3 +66,5 @@ class Bicicleta():
 ```
 
 El fet de posar el underscore no afecta a la visibilitat, però és una "convenció" de que si trobem un atribut d'aquest tipus, no convé accedir-hi directament.
+
+> **Tasca:** Dissenya una classe per als pokemons, amb el seu nom i unes poques característiques principals. Crea'n dos instàncies.

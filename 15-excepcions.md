@@ -18,3 +18,4 @@ except IOError:
 # En qualsevol cas, el codi continua després del try/except
 ```
 
+> **Tasca:** Escriu un programa que faci divisions amb els números introduïts per l'usuari. En cas que es faci una divisió entre zero, capturar l'excepció i mostrar un missatge amigable a l'usuari.

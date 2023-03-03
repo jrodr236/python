@@ -1,7 +1,7 @@
 12 . Python: tuples
 =========================
 
-Una tupla és una agrupació d'elements de mida fixa. Son semblant als `struct` d'altres llenguatges de programació.
+Una tupla és una agrupació d'elements de mida fixa. Son semblant als `struct` d'altres llenguatges de programació. Al contrari que les llistes, les tuples son constants, no es poden modificar després de crear-les.
 
 ```python
 tupla = (1, 2, 'hola')
