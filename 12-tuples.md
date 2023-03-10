@@ -23,4 +23,6 @@ Podem assignar una tupla a una altra de la mateixa mida:
 (a, b, c) = (42, 13, "super!")
 ```
 
-> **Tasca:** Estem en un equip de programació encarregat de desenvolupar un joc electrònic basat en el [Whac-A-Mole](https://ca.wikipedia.org/wiki/Whac-A-Mole_(videojoc)). Els talps poden sortir en una de les posicions d'un rectangle de 3x3. Crea una funció que retorni una tupla amb la posició aleatòria a on apareixeria el talp.
+> **Tasca:** Crea una funció que rebi una tupla per paràmetre amb una data (dia, més i any). La funció ha de retornar una tupla amb el dia següent.
+>
+> **Tasca:** Busca a Internet i respón: en quins casos és millor utilitzar tuples enlloc de llistes i quines avantatges té?
