@@ -69,6 +69,6 @@ for k, v in dict.items(): print(k, '>', v) # L'accés es realitza sobre una llis
 
 
 > **Tasca:** Crea un programa amb 2 funcionalitats:
-> - Primer, demanarà noms de pokemons i el seu tipus.
+> - Primer, demanarà noms de pokemons i el seu tipus (suposem que els pokemons només tenen 1 tipus).
 > - Després, l'usuari podrà indicar un nom de pokemon i el programa retornarà quin és el seu tipus.
 
