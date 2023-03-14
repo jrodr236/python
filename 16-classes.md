@@ -62,7 +62,7 @@ A Python tots els atributs i mètodes son públics. Es pot "marcar" com a privat
 class Bicicleta():
    _velocitat = 0
    def accelera(self):
-      self._velocitat = self.velocitat + 5
+      self._velocitat = self._velocitat + 5
 ```
 
 El fet de posar el underscore no afecta a la visibilitat, però és una "convenció" de que si trobem un atribut d'aquest tipus, no convé accedir-hi directament.
