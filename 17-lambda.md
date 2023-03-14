@@ -55,7 +55,7 @@ class Persona:
         return self._ciutat_de_naixement
 
     def get_any_de_naixement(self):
-        return self.get_any_de_naixement
+        return self._any_de_naixement
 
     def __str__(self):
         return self._nom + ", nascut a " + self._ciutat_de_naixement + " l'any " + self._any_de_naixement + "."
