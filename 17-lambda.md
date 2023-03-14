@@ -65,7 +65,7 @@ abril = Persona("Abril", "Barcelona", "1968")
 josep = Persona("Josep", "Andorra", "2001")
 marta = Persona("Marta", "Olot", "1999")
 
-llista_de_persones = (abril, josep, marta)
+llista_de_persones = [abril, josep, marta]
 
 print("Ordre original")
 for persona in llista_de_persones:
@@ -79,7 +79,7 @@ print()
 # Retorna l'error:
 # TypeError: '<' not supported between instances of 'Persona' and 'Persona'
 
-print("Ordre per defecte")
+print("Ordre per nom")
 for persona in sorted(llista_de_persones, key=lambda x: x.get_nom()):
     print(persona)
 print()
